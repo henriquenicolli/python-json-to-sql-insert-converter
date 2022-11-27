@@ -1,0 +1,16 @@
+[{  
+    "id" : 1001, 
+    "nome" : "Joao", 
+    "idade" : 30 
+} , 
+{   
+    "id" : 1002,
+    "nome" : "Jose",
+    "idade" : 25
+},
+{
+    "id" : 1003,
+    "nome" : "Henrique",
+    "idade" : 35,
+    "salario" : 5000
+}]
